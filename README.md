@@ -6,6 +6,6 @@ Instrucciones para visualizar:
 - Abrir Node: npm install
 - Iniciar el servidor: npm run start
 - Se visualiza el servidor: "server on port 3000"
-- Descargar e instalar la aplicación Postman para verificar la API.
+- Descargar e instalar la aplicación Postman para verificar la API [el archivo se encuentra en spec.yml].
 
 
